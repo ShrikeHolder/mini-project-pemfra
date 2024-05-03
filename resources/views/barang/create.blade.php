@@ -12,7 +12,7 @@
 <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-primary">
         <div class="container">
-            <a href="{{ route('home') }}" class="navbar-brand mb-0 h1"><i class="bi-hexagon-fill me-2"></i>Data Master</a>
+            <a href="{{ route('home') }}" class="navbar-brand mb-0 h1"><i class="bi-hexagon-fill me-2"></i>Master Barang</a>
             <button type="button" class="navbar-toggler" data-bstoggle="collapse"
                 data-bs-target="#navbarSupportedContent">
                 <span class="navbar-toggler-icon"></span>
