@@ -16,7 +16,7 @@
         <img class="img-thumbnail" src="{{ Vite::asset('resources/images/cour.gif') }}" alt="image">
         <div class="col-md-2 offset-md-5 mt-4">
             <div class="d-grid gap-2">
-                <a class="btn btn-dark" href="index">Home</a>
+                <a class="btn btn-dark" href="home">Home</a>
             </div>
         </div>
     </div>
